@@ -1,0 +1,20 @@
+<!-- Generates a table row from the attributes of the Textbook object passed from textbook-list.component.html -->
+<section>
+  <tr class="border">
+    <td style="width:140px">
+      <img *ngIf="textbook.coverUrl!==null" style="width:120px;" src="{{textbook.coverUrl}}">
+    </td>
+    <td>
+      <div>
+        <span *ngIf="textbook.title!==null"><i>{{textbook.title}}</i><br></span>
+        <span *ngIf="textbook.authors!==null">{{textbook.authors}}<br></span>
+        <span *ngIf="textbook.publisher!==null">{{textbook.publisher}}</span><span *ngIf="textbook.publisher!==null && textbook.year!==null">,&nbsp;</span><span *ngIf="textbook.year!==null">{{textbook.year}}</span>
+        <span *ngIf="textbook.publisher!==null || textbook.year!==null"><br></span>
+        <span *ngIf="textbook.isbn!==null">ISBN-13: {{textbook.isbn}}<br></span>
+        <span *ngIf="textbook.url!==null"><a href="{{textbook.url}}" target="_blank">Website</a><br></span>
+        <span [innerHTML]="textbook.note" *ngIf="textbook.note!==null">{{textbook.note}}<br></span>
+      </div>
+    </td>
+  </tr>
+</section>
+

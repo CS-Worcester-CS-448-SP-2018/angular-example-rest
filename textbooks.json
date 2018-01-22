@@ -1,0 +1,75 @@
+{
+  "textbooks": [
+    {
+      "title": "Software Testing: A Craftsman’s Approach, Fourth Edition",
+      "authors": "Paul C. Jorgensen",
+      "publisher": "CRC Press",
+      "year": 2013,
+      "isbn": "9781466560680",
+      "url": "https://www.crcpress.com/Software-Testing-A-Craftsmans-Approach-Fourth-Edition/Jorgensen/9781466560680",
+      "note": null,
+      "coverUrl": "http://cs.worcester.edu/kwurst/img/9781466560680.jpg"
+    },
+    {
+      "title": null,
+      "authors" : null,
+      "publisher": null,
+      "year": null,
+      "isbn": null,
+      "url": null,
+      "note": "Thanks to an <a href=\"http://libguides.worcester.edu/oeri\">Open Educational Resources Initiative (OERI)</a> mini-grant from the <a href=\"http://www.worcester.edu/library/\">Worcester State University Library</a>, this course has no required textbook.<br><br>Instead we will be using freely available learning resources for all of the topics in this course.",
+      "coverUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/OERlogo.svg/256px-OERlogo.svg.png"
+    },
+    {
+      "title": "Vehicles: Experiments in Synthetic Psychology",
+      "authors": "Valentino Braitenberg",
+      "publisher": "MIT Press",
+      "year": 1986,
+      "isbn": "9780262521123",
+      "url": "https://mitpress.mit.edu/books/vehicles",
+      "note": null,
+      "coverUrl": "http://cs.worcester.edu/kwurst/img/Vehicles.jpg"
+    },
+    {
+      "title": "Version Control by Example",
+      "authors": "Eric Sink",
+      "publisher": "Source Gear",
+      "year": 2011,
+      "isbn": "9780983507901",
+      "url": null,
+      "note": "<a href=\"http://ericsink.com/vcbe/\">Free downloads available here</a>",
+      "coverUrl": "http://cs.worcester.edu/kwurst/img/1802_image001.jpg"
+    },
+    {
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "authors": "Robert C. Martin",
+      "publisher": "Prentice Hall",
+      "year": 2009,
+      "isbn": "9780132350884",
+      "url": "http://www.pearsonhighered.com/educator/product/Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/9780132350884.page",
+      "note": null,
+      "coverUrl": "http://cs.worcester.edu/kwurst/img/0132350882.jpg"
+    },
+    {
+      "title": "Scrum: A Breathtakingly Brief and Agile Introduction",
+      "authors": "Chris Sims and Hillary Louise Johnson",
+      "publisher": "Dymaxicon",
+      "year": 2012,
+      "isbn": "9781937965044",
+      "url": null,
+      "note": "<a href=\"http://www.amazon.com/Scrum-Breathtakingly-Brief-Agile-Introduction-ebook/dp/B007P5N8D4/\">Available as a $0.99 Kindle book</a><br><a href=\"http://www.agilelearninglabs.com/resources/scrum-introduction/\">Read the whole text online here</a>",
+      "coverUrl": "http://cs.worcester.edu/kwurst/img/scrum-intro-cover-front-outlined-400-207x300.jpg"
+    },
+    {
+      "title": "The Software Craftsman: Professionalism, Pragmatism, Pride",
+      "authors": "Sandro Mancuso",
+      "publisher": "Prentice Hall",
+      "year": 2015,
+      "isbn": "9780134052502",
+      "url": "http://www.pearsonhighered.com/educator/product/Software-Craftsman-The-Professionalism-Pragmatism-Pride/9780134052502.page",
+      "note": null,
+      "coverUrl": "http://cs.worcester.edu/kwurst/img/0134052501.jpg"
+    }
+  ]
+}
+

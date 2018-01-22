@@ -1,0 +1,8 @@
+<!-- complete and textbooks are received from app.component.html -->
+<section>Textbook list: <i>{{complete}}</i></section>
+<table >
+  <!-- Loop through textbooks, creating a table row for each -->
+  <section *ngFor="let textbook of textbooks">
+    <!-- Pass the individual textbook to TextbookDetailComponent which will generate a table row -->
+    <app-textbook-detail [textbook]="textbook"></app-textbook-detail></section>
+</table>
