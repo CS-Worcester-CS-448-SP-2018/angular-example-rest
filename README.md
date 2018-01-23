@@ -1,6 +1,18 @@
-# AngularExampleCs448
+# AngularExampleREST
+
+&copy; 2018 Karl R. Wurst<br>
+Licensed under GPL version 3<br>
+See LICENSE file for details
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
+
+## Uses JSON Server to provide a REST API
+[JSON Server](https://github.com/typicode/json-server) on GitHub
+1. Install JSON Server: 
+    1. Open a terminal (in WebStorm Alt-F12 (Windows) or Option-F12 (Mac OS))
+    2. Run the command `npm install -g json-server`
+2. Run JSON Server:
+    1. In a terminal window, run the command `json-server textbooks.json`
 
 ## Development server
 
